@@ -1,0 +1,12 @@
+.btn {
+    display: block !important;
+    margin: 10px auto !important;
+}
+
+.title {
+    text-align:center;
+}
+
+.datagrid-container {
+    padding: 50px;
+}
